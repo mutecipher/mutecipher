@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Come work with me at Shopify](https://jobs.lever.co/shopify?lever-via=BnPOXjqrLH)
+
 <!--
 **cjhutchi/cjhutchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
