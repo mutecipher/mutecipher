@@ -1,7 +1,3 @@
-### Hi there 👋
-
-[Come work with me at Shopify](https://jobs.lever.co/shopify?lever-via=BnPOXjqrLH)
-
 <!--
 **cjhutchi/cjhutchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+I'm a software developer 💻 at [Shopify](https://www.shopify.com).
+
+[💼 Come work with me!](https://www.shopify.com/careers)
+
+![Visitor Count](https://profile-counter.glitch.me/cjhutchi/count.svg)
