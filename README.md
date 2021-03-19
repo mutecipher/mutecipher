@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+## Hey, I'm Cory! 👋
 
-I'm a software developer 💻 at [Shopify](https://www.shopify.com).
+- 🔭 I’m currently working on typing Ruby at [Shopify](https://www.shopify.com)
+- 🌱 I’m currently learning Rust and 3D modelling
+- 👯 I’m looking to collaborate on different open source things
+- 🤔 I’m looking for help with 
+- 💬 Ask me about loud music, CLI design and 
+- 📫 How to reach me: 💼 [LinkedIn](https://www.linkedin.com/in/cjhutchi/) or 🐦 [Twitter](https://twitter.com/mutecipher)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
-[💼 Come work with me!](https://www.shopify.com/careers)
-
-![Visitor Count](https://profile-counter.glitch.me/cjhutchi/count.svg)
+You should take a look at [working with me!](https://www.shopify.com/careers)
