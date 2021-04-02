@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm Cory! 👋
+## 👋 Hey, I'm Cory!
 
-- 🔭 I’m currently working on typing Ruby at [Shopify](https://www.shopify.com)
+- 🔭 I’m currently working on Ruby typing and tooling at [Shopify](https://www.shopify.com)
 - 🌱 I’m currently learning Rust and 3D modelling
 - 👯 I’m looking to collaborate on different open source things
-- 🤔 I’m looking for help with 
-- 💬 Ask me about loud music, CLI design and 
+- 💬 Ask me about loud music 🎸, CLI design 💻 and movies 🍿
 - 📫 How to reach me: 💼 [LinkedIn](https://www.linkedin.com/in/cjhutchi/) or 🐦 [Twitter](https://twitter.com/mutecipher)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My username is from a William Gibson name generator
 
 You should take a look at [working with me!](https://www.shopify.com/careers)
