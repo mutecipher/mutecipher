@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hey, I'm Cory!
 
-- 🔭 I’m currently working on Ruby typing and tooling at [Shopify](https://www.shopify.com)
+- 🔭 I’m currently working on Payments at [Shopify](https://www.shopify.com)
 - 🌱 I’m currently learning Rust and 3D modelling
 - 👯 I’m looking to collaborate on different open source things
 - 💬 Ask me about loud music 🎸, CLI design 💻 and movies 🍿
