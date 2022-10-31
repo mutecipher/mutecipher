@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hey, I'm Cory!
 
-- 🔭 I’m currently as a Software Developer III at [Weedmaps](https://www.weedmaps.com)
+- 🔭 I’m currently working on Brands as a Software Developer III at [Weedmaps](https://www.weedmaps.com)
 - 🌱 I’m currently learning Rust and 3D modelling
 - 👯 I’m looking to collaborate on different open source things
 - 💬 Ask me about loud music 🎸, CLI design 💻 and movies 🍿
