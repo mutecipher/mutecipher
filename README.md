@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My username is from a William Gibson name generator
 - 🔒 PGP: 32AB E5D2 9C8E E52D 273A  CB98 705B 2FEF 0EF4 1082
 
-You should take a look at [working with me!](https://weedmaps.com/careers)
+You should take a look at [working with me!](https://grnh.se/3f20a4822us)
