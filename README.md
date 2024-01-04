@@ -1,4 +1,4 @@
-# mutecipher
+# Cory Hutchison
 
 - 🔭 I’m a Software Engineer at [Weedmaps](https://www.weedmaps.com), ex-[Shopify](https://www.shopify.com)
 - 🌱 I’m currently tinkering around building an emulator for a fantasy CPU
